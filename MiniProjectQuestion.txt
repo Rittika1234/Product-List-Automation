@@ -1,0 +1,26 @@
+Case Study: Product List Automation
+
+Problem Statement: 
+
+Automate Search functionality and validate total benches of Online shopping Website. 
+
+Display the different types of Furniture.
+Validate the industrial benches.
+Suggested site: pepperfry.com, however you are free to choose any other legitimate shopping site.
+
+Detailed Description: 
+
+Launch any browser as per the user input ex: Chrome/Firefox.
+Open the online shopping website ex: https://www.pepperfry.com/.
+Validate the text “Online Furniture Shopping Store” in the title.
+Select “Furniture” and click on “Benches”.
+Display the total benches with respect to its category and count.
+Check whether “Industrial Benches” are more than one.
+Close the browser.
+Key Automation Scope:
+
+Handling multiple browsers Chrome/Firefox
+Using appropriate synchronization technique
+Locating elements precisely
+Exception handling
+Handling dropdown list
